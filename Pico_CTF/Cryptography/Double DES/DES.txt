@@ -1,0 +1,3 @@
+Here is the flag:
+b2b54b50f980d86427f533d2e14e70bcac6f7b75fa55bf4f033360e2f69ab931f537058170721982
+What data would you like to encrypt? Invalid input.

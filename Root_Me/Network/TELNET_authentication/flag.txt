@@ -1,0 +1,2 @@
+Open pacp file in wireshark. Use follow tcpstream. 
+You will find the password:user

@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 3.1.2.0 
+
+Case Information: 
+Acquired using: ADI3.1.2.0
+Case Number: 001
+Evidence Number: 001
+Unique description: XP
+Examiner: Karim
+Notes: BGD e-GOV CIRT
+
+--------------------------------------------------------------
+
+Information for E:\XP Image\XP Image:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 4,192,902
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 2047 MB
+ Sector count:    4192902
+[Computed Hashes]
+ MD5 checksum:    8fb81a85e981d414be5bd8fe2841ffa1
+ SHA1 checksum:   64029c0f5c373f24f9e2f052942434fe00a3f811
+
+Image Information:
+ Acquisition started:   Fri Jul 02 22:18:58 2021
+ Acquisition finished:  Fri Jul 02 22:20:28 2021
+ Segment list:
+  E:\XP Image\XP Image.E01
+
+Image Verification Results:
+ Verification started:  Fri Jul 02 22:20:28 2021
+ Verification finished: Fri Jul 02 22:20:44 2021
+ MD5 checksum:    8fb81a85e981d414be5bd8fe2841ffa1 : verified
+ SHA1 checksum:   64029c0f5c373f24f9e2f052942434fe00a3f811 : verified

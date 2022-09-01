@@ -1,0 +1,5 @@
+Command: 
+cat level3.py 
+python3 level3.py 
+Try the different password presented in the script 
+picoCTF{m45h_fl1ng1ng_2b072a90}

@@ -1,0 +1,14 @@
+Command: 
+xxd -r -p ch12.txt >> ch12_dump_to_asci.txt
+cat ch12_dump_to_asci.txt
+	>> You will see an encoded text usder authorization.
+			siZ`@&S`* AB3tP}
+			        >i~GET / HTTP/1.1
+			Authorization: Basic Y29uZmk6ZGVudGlhbA==
+			User-Agent: InsaneBrowser
+			Host: www.myipv6.org
+			Accept: */*
+		
+	>> Now decode this encoded data (Y29uZmk6ZGVudGlhbA==).
+echo "Y29uZmk6ZGVudGlhbA==" | base64 -d
+	>> confi:dential

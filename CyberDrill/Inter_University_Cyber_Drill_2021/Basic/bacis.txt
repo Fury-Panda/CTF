@@ -1,0 +1,16 @@
+1. Cyber secuirty TRIAD:
+	UNICTF{ICA}
+
+2. GREP has some power to search!
+	UNICTF{you_will_find_the_flag_using_grep}
+
+3. Sometime common things are mistaken
+	UNICTF{Pyt40N_1s_a1w@y5_g00d_Pr0gram}
+
+4. An Eagles eye shot
+	UNICTF{H3r03s_L1v3_F0R3v3r}
+
+5. Secrecy is nothing
+
+6. Tower of Hanoi 
+	UNICTF{Thi5_i5_f0rK14g}

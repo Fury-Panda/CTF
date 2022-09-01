@@ -1,0 +1,19 @@
+# Nmap 7.92 scan initiated Sat Aug 27 16:32:03 2022 as: nmap -v -A -sV -sC -oN nmap_scan.txt 212.129.38.224
+Nmap scan report for challenge01.root-me.org (212.129.38.224)
+Host is up (0.25s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE VERSION
+80/tcp   open  http    nginx
+| http-methods: 
+|_  Supported Methods: GET HEAD
+|_http-title: Challenge01 [Root Me : plateforme d'apprentissage d\xC3\xA9di\xC3\xA9e au ...
+2222/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.6 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 af:f3:1e:47:59:01:a1:b7:45:46:5c:c0:d6:4b:05:e8 (RSA)
+|   256 83:f9:9c:4e:5d:f9:5d:c7:f3:69:b6:11:c6:3b:41:7a (ECDSA)
+|_  256 5c:95:7c:45:d0:09:53:1b:40:d5:cd:7a:0b:c6:ca:03 (ED25519)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Aug 27 16:32:37 2022 -- 1 IP address (1 host up) scanned in 34.86 seconds

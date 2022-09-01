@@ -1,0 +1,2 @@
+Command: strings strings | grep picoCTF >> flag.txt
+picoCTF{5tRIng5_1T_d66c7bb7}

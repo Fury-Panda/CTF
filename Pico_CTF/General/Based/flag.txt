@@ -1,0 +1,18 @@
+┌──(kali㉿kali)-[~/Documents/Pico_CTF/General/Based]
+└─$ nc jupiter.challenges.picoctf.org 15130
+Let us see how data is stored
+lime
+Please give the 01101100 01101001 01101101 01100101 as a word.
+...
+you have 45 seconds.....
+
+Input:
+lime
+Please give me the  143 157 154 157 162 141 144 157 as a word.
+Input:
+colorado
+Please give me the 636f6e7461696e6572 as a word.
+Input:
+container
+You've beaten the challenge
+Flag: picoCTF{learning_about_converting_values_02167de8}

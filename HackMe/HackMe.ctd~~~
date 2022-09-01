@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="HackMe" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1661966683" ts_lastsave="1661966737">
+    <node name="Misc" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1661966737" ts_lastsave="1661970851">
+      <rich_text weight="heavy">Misc</rich_text>
+      <rich_text>
+
+</rich_text>
+      <rich_text weight="heavy">1. flag</rich_text>
+      <rich_text>
+   ◇ Flag is given
+ 
+</rich_text>
+      <rich_text weight="heavy"> 2. corgi can fly</rich_text>
+      <rich_text>
+   ◇  Use StegSolve
+            → While changing plane a QR code will be found
+            → Scan the QR code and found the flag
+</rich_text>
+      <rich_text weight="heavy">3. television</rich_text>
+      <rich_text>
+   ◇ Use strings
+</rich_text>
+    </node>
+  </node>
+</cherrytree>

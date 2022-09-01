@@ -1,0 +1,4 @@
+Modify the given script with removing the user input and take input of possible password list from given dictionary file 
+Command: python3 modified_level5.py 
+picoCTF{h45h_sl1ng1ng_40f26f81}
+

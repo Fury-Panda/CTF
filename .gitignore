@@ -1,0 +1,19 @@
+# Private Files
+*.ovpn
+
+
+# Files over 100mb
+# Command to list all the grater than 100MB and then write tham to .gitignore: "find * -size +100M -type f -print >> .gitignore"
+
+CyberDrill/Inter_University_Cyber_Drill_2021/Forensic/Image/XP Image.rar
+CyberDrill/Inter_University_Cyber_Drill_2021/Forensic/Image/XP_Image.E01
+CyberDrill/Inter_University_Cyber_Drill_2022/Forensic/results/trailing_data.bin
+CyberDrill/Inter_University_Cyber_Drill_2022/Forensic/results/keepers/1661258805.2532282-ec0d1be446524602beb1deb0e0134992
+CyberDrill/Inter_University_Cyber_Drill_2022/Forensic/results/keepers/12246.zip
+CyberDrill/Inter_University_Cyber_Drill_2022/Forensic/ucd2022.jpg
+CyberDrill/Inter_University_Cyber_Drill_2022/Forensic/hex_ucd2022
+CyberDrill/Inter_University_Cyber_Drill_2022/Forensic/ucd2022_jpg_extracted/12246.zip
+CyberDrill/Inter_University_Cyber_Drill_2022/Forensic/ucd2022_jpg_extracted/zip.hash
+CyberDrill/Inter_University_Cyber_Drill_2022/Forensic/ucd2022_jpg_extracted/dump.img
+CyberDrill/Inter_University_Cyber_Drill_2022/Incident_Response/IR.zip
+CyberDrill/Inter_University_Cyber_Drill_2022/Incident_Response/ubuntu-server.ova
