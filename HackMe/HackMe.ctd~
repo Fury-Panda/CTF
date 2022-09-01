@@ -2,7 +2,7 @@
 <cherrytree>
   <bookmarks list=""/>
   <node name="HackMe" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1661966683" ts_lastsave="1661966737">
-    <node name="Misc" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1661966737" ts_lastsave="1661970937">
+    <node name="Misc" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1661966737" ts_lastsave="1662069986">
       <rich_text weight="heavy">Misc</rich_text>
       <rich_text>
 
@@ -28,7 +28,44 @@
       <rich_text>
             → Found the flag among the list of strings
 
-4.  meow</rich_text>
+</rich_text>
+      <rich_text weight="heavy">4.  meow</rich_text>
+      <rich_text>
+
+</rich_text>
+      <rich_text weight="heavy">5. where is flag</rich_text>
+      <rich_text>
+   ◇ Use </rich_text>
+      <rich_text family="monospace">unzip</rich_text>
+      <rich_text>
+            → unzip the given </rich_text>
+      <rich_text style="italic">flag.xz</rich_text>
+      <rich_text> file
+            → Found a long single line text file named </rich_text>
+      <rich_text style="italic">flag.txt</rich_text>
+      <rich_text>
+   ◇ Use regex (regular-expression)
+            → To find the flag the regex should match </rich_text>
+      <rich_text style="italic">FLAG</rich_text>
+      <rich_text>{anything-alphanumeric}
+            → "FLAG{\w*}" should be the most accurate by me
+            → But "FLAG{[^\{\}\(\)\[\]]+}" or FLAG{[a-zA-z0-9]*} should also work but you have to exclude the result which have special charecter or symbol in it
+   ◇ Use </rich_text>
+      <rich_text family="monospace">cat</rich_text>
+      <rich_text> and </rich_text>
+      <rich_text family="monospace">grep</rich_text>
+      <rich_text>
+            → Command using above regex </rich_text>
+      <rich_text family="monospace">cat flag | grep -oP "FLAG{\w*}" </rich_text>
+      <rich_text>
+   ◇ Use </rich_text>
+      <rich_text family="monospace" link="webs https://regex101.com/">regex101</rich_text>
+      <rich_text> alternative to </rich_text>
+      <rich_text family="monospace">cat</rich_text>
+      <rich_text> and </rich_text>
+      <rich_text family="monospace">grep</rich_text>
+      <rich_text>
+            → </rich_text>
     </node>
   </node>
 </cherrytree>

@@ -1,0 +1,21 @@
+
+Scan Time:     2022-09-01 09:54:59
+Target File:   /home/kali/Documents/Cyber-Security/CTF/HackMe/Misc/where is flag/flag.xz
+MD5 Checksum:  299c1fafb2e6891de08bb34c72d4bfdc
+Signatures:    411
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             xz compressed data
+
+
+Scan Time:     2022-09-01 09:54:59
+Target File:   /home/kali/Documents/Cyber-Security/CTF/HackMe/Misc/where is flag/_flag.xz.extracted/0
+MD5 Checksum:  918cce0d8441b1ed64f7ec7b2b65dd35
+Signatures:    411
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+104861        0x1999D         StuffIt Deluxe Segment (data): fmjRLEk635pfl@g49rhFKl[[{}fl@gFLAGOvGdsYchmPLSg3(f1AgWOTQVjeMaNmfZ9MYs6N5qgVpKFLAGD2M4plchwjP}cQnClFROGib6yfKXp0aL}f1Agf1Ag6mUIN
+342029        0x5380D         StuffIt Deluxe Segment (data): f1Ag750XTJKyqmxM}7zwdHpcbkKZS7f1AgekgRQJXqd0Qy}1rk2U4mtKHugyesOB5UtR8f1Ag}L21UTb8sFXEifl@gFROG2ejrIPqFROGFLAG0MSRoAHZeIC)V0UrMTu
+538751        0x8387F         StuffIt Deluxe Segment (data): f1Agf1Ag1LQ7YSnAa[QoRFqcnu2fl@gqU0M8CDnOzFrBlhRxkcD0RLEN}[fl@gf1AgFROGvBstaA83K{nN74fFLAG)f1Aga6MuBDt9n[fl@gm9JrPTxo4TIzckJvWMGS
+641645        0x9CA6D         StuffIt Deluxe Segment (data): f3ILqoftXMQlsvLFROG]fl@gFROGiFPnh1oUMsDHAfl@gf1Agf1AgFLAG]f1AgSb21OK[sDtG79jaLDzyCkdggCJG0f]0Fkaeh9CqZDKJgFROGf1AgnmqshMkjlFY0Sf
+
