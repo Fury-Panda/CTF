@@ -1,0 +1,8 @@
+Download this image file and find the flag.
+    Download image file drawing.flag.svg 
+
+Open the file on normally as image, no luck!!!
+Opne on notepad or terminal using cat.
+Under <g> tag if we see carefully ther is <text/> tag. Inside that between <tspan> tags there are sone characters.
+Concatanate the characters and found the flag!!!
+

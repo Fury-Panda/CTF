@@ -1,0 +1,5 @@
+Kishor Balan tipped us off that the following code may need inspection: https://jupiter.challenges.picoctf.org/problem/41511/ (link) or http://jupiter.challenges.picoctf.org:41511
+
+Inspect the page, 
+On html, linked css, js file we will find the flag fragmaent.
+Just concatanate the fragments.
